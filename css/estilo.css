@@ -1,4 +1,3 @@
-
 main {
     width: 100%;
     height: 100vh;
@@ -24,7 +23,7 @@ main section#caja-principal article:nth-child(1) {
     position: relative;
     margin: 0;
     float: left;
-    background: url(img/foto_hans_01.jpg) no-repeat top center #fff;
+    background: url(https://hans-maldoper.github.io/webiste/img/foto_hans_01.jpg) no-repeat top center #fff;
     background-size: cover;
 }
 
