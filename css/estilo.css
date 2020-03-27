@@ -24,7 +24,7 @@ main section#caja-principal article:nth-child(1) {
     position: relative;
     margin: 0;
     float: left;
-    background: url(img/foto_hans_01.jpg") no-repeat top center #fff;
+    background: url(img/foto_hans_01.jpg) no-repeat top center #fff;
     background-size: cover;
 }
 
@@ -183,7 +183,7 @@ main section#caja-principal article:nth-child(2) nav {
     height: 35px;
     display: block;
     margin: 0 0 0 10%;
-    float: none;
+    float: left;
     position: relative;
 }
 main section#caja-principal article:nth-child(2) nav a {
@@ -193,7 +193,7 @@ main section#caja-principal article:nth-child(2) nav a {
     margin: 0 10px 0 0;
     float: left;
     position: relative;
-    
+    line-height: 2;
     background: #09f;
     text-align: center;
     border-radius: 100%;
